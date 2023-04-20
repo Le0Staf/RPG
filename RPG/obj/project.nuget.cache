@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Tddf6zHVP9V2/tyq+TcBMSbQUAN92xcy8LFHK+GjykwM1qrC19tQDWoAN/CiLR8kVUp/ODzpc1GC2zBqQu95w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lest0823\\Downloads\\RPG-main\\RPG-main\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lest0823\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
